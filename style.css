@@ -3,3 +3,10 @@ body {
     max-width: 500px;
     margin: 0 auto;
 }
+
+.red {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    margin: 20px;
+}
