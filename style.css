@@ -3,3 +3,25 @@ body {
     max-width: 500px;
     margin: 0 auto;
 }
+
+.red {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+.yellow {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    margin-bottom: 20px;
+}
+
+.green {
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    margin-bottom: 20px;
+}
+
