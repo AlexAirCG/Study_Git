@@ -3,3 +3,10 @@ body {
     max-width: 500px;
     margin: 0 auto;
 }
+
+.green {
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    margin-top: 20px;
+}
